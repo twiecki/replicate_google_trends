@@ -1,7 +1,5 @@
-replicate_google_trends
-=======================
-
 Replication of "Quantifying Trading Behavior in Financial Markets Using Google Trends" by Preis et al 2013
+==========================================================================================================
 
 View the IPython notebook here:
 http://nbviewer.ipython.org/github/twiecki/replicate_google_trends/blob/master/goog_repl.ipynb
